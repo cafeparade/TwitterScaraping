@@ -2,7 +2,7 @@ import tweepy
 from datetime import date, datetime, timezone
 import pytz
 import pandas as pd
-print("AAA")
+print("咲ちゃんアイス")
 dt = date.today()
 
 # 認証に必要なキーとトークン
